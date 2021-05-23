@@ -4,7 +4,7 @@
  
 ## Description
 
-**Car price Prediction is an algorithm that will predict the price of the car with the help of some parameter. These are the some parameters like fuel type, door number, wheel base, engine location, car length, width, height etc from which algorithm predict the price.**
+**This is an algorithm that will predict the price of a car using some parameters. These are some parameters such as fuel type, door number, wheel base, engine location, car length, width, height, etc. from which the algorithm predicts the price.**
 
 ## Directory Structure
 
@@ -20,7 +20,7 @@
     
 
 ## Accuracy
-**I have built this project in different algorithms which are the Decision Tree, Multiple Linear Variable, and Random Forest. Among this, the accurcy of the project are different algorithm wise.**
+**I have created this project in different algorithms which are decision tree, multiple linear variable and random forest. Among this, the accuracy of the project varies according to the algorithm.**
 
 > - Random Forest            : 90.3991 %
 > - Decision Tree            : 87.7502 %
